@@ -1,0 +1,3 @@
+W tygodniu 09.03 - 13.03 zapoznawałem się z technologią React Native w której chciałbym realizować projekty
+W tygodniu 16.03 - 20.03 implementowałem różne mniejsze aplikacje w React Native, które pozwolą mi na swobodniejszą realizację projektów 1,2 i 3
+W tygodniu 23.03 - 27.03 realizowałem projekt numer 1 korzystając ze zdobytej wiedzy w poprzednich tygodniach
